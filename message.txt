@@ -1,2 +1,3 @@
-This is the third commit.
-This repository is branched here. The name of the new branch is feature!
+This is the seventh commit.
+First commit in the feature branch!
+Ideally, you are not supposed to see this message.
